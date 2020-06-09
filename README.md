@@ -1,14 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+This project was created on 6/8/2020
 
 ### Project Title
-Replace the Project Title
+GitHub with Python
 
 ### Description
-Describe what your project is about and what it does
+Explore Bikeshare data
 
 ### Files used
-Include the files used
+Bikeshare
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
