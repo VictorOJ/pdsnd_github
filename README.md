@@ -5,7 +5,7 @@ This project was created on 6/8/2020
 GitHub with Python
 
 ### Description
-Explore Bikeshare data
+Explore Bikeshare data with Python
 
 ### Files used
 Bikeshare python code and other files
