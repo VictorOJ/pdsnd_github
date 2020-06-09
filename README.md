@@ -8,7 +8,7 @@ GitHub with Python
 Explore Bikeshare data
 
 ### Files used
-Bikeshare
+Bikeshare python code and other files
 
 ### Credits
 Credits goes to Udacity nanodegree program
